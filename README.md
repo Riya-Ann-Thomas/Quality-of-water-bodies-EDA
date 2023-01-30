@@ -1,4 +1,4 @@
-# Quality-of-water-bodies-EDA
+# 💦 Quality of water bodies - EDA 💦
 
 A data analysis project using a Kaggle dataset on quality of water bodies in India. 
 
